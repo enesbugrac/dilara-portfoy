@@ -20,7 +20,7 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
           rel="noopener noreferrer"
           className="btn"
         >
-          İncele
+          Göz at
         </a>
       </div>
     </div>
