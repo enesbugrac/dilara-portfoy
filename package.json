@@ -1,9 +1,9 @@
 {
-  "name": "react-portfolio-template",
+  "name": "portfolio",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "Portfolio Template For Dilara",
   "version": "0.1.0",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "author": "@enesbugrac",
   "dependencies": {
     "bootstrap": "^5.0.0",
     "gatsby": "^2.26.1",
